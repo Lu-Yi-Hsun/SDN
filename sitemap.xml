@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://lu-yi-hsun.github.io/home/</loc>
+     <loc>https://lu-yi-hsun.github.io/SDN/</loc>
      <lastmod>2018-12-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://lu-yi-hsun.github.io/home/openflow/</loc>
+     <loc>https://lu-yi-hsun.github.io/SDN/openflow/</loc>
      <lastmod>2018-12-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
